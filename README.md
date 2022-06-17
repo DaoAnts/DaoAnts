@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @DaoAnts
 - 👀 I’m interested in C、C++、C#
 - 🌱 I’m currently learning C#，image processing，and the internet of things
-- 💞️ I’m looking to collaborate on Internet of Things
 - 📫 Email: ......
 
 <!---
